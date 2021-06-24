@@ -1,4 +1,4 @@
-# Set Up Jupyter environement
+# Install Jupyter
 * [Install on MacOS](#Install-on-MacOS)
 * [Install on Linux](#Install-on-Linux)
 * [Install on Windows](#Install-on-Windows)
@@ -25,7 +25,7 @@ $ pip install jupyter
 ```
 $ jupyter notebook
 ```
-
+---
 We suggest you run jupyter in background, so you can execute also other tasks:
 ** Now you can lunch jupyter notebook in a MacOS or Linux terminal by executing
 ```
